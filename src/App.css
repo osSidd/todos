@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+    color:brown;
+    font-family: Helvetica, sans-serif;
+}
